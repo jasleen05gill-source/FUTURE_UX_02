@@ -18,6 +18,6 @@ Built a seamless platform with customizable grooming services, transparent prici
 App screens and a detailed case study presentation are included in this repository
 
 6. Links
-
 File Link - https://www.figma.com/design/osQKlmTypkdKqGMwUS1xaJ/Task-2?node-id=31-119&p=f&t=GjzVrGYm1wscrlUp-0
+
 Prototype Link - https://www.figma.com/proto/osQKlmTypkdKqGMwUS1xaJ/Task-2?node-id=31-119&t=K6Uw0eGfAtsZiOq1-1
