@@ -1,18 +1,18 @@
 1. Overview
-Redesigned Pawfect, a pet grooming booking app, to simplify service discovery and scheduling.
+Pawfect is a pet grooming booking app designed to simplify service discovery and scheduling for pet owners.
 
 2. Problem
-Users struggled with finding trusted groomers, unclear pricing, and a complicated booking process, leading to drop-offs and low trust.
+Pet owners struggle to find trusted groomers, deal with unclear pricing, and face complicated booking processes, leading to confusion and drop-offs.
 
 3. Solution
-Designed a clean, intuitive, and mobile-first experience with transparent pricing, customizable services, and a streamlined booking flow.
+Built a seamless platform with customizable grooming services, transparent pricing, and an intuitive booking flow with smart time-slot selection.
 
 4. Key Features
-- Easy service discovery with clear categories
-- Transparent pricing and service details
+- Easy discovery of groomers and services
+- Transparent pricing and clear service details
 - Customizable grooming packages
 - Smart time-slot booking system
-- Clean, user-friendly interface
+- Clean, intuitive user experience
 
 5. Note
-UI screens and a detailed case study presentation are included in this repository
+App screens and a detailed case study presentation are included in this repository
